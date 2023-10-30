@@ -1,3 +1,4 @@
+"""Dado um numero inteiro, exiba sua tabuada."""
 numero = int(input('digite um numero para ver a taboada: '))
 print(f'essa é a taboada do numero {numero}:')
 for i in range(1, 10+1):
